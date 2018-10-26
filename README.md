@@ -1,5 +1,6 @@
 # mydevelopment
 Source Code of Asep Kurnia
+You can use it all you want and don't forget give feedback
 
 1. sample
    Sample is source code for sorting, the sample is read file where content file like :
